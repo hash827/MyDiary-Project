@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">MyDiaryProject</string>
+    <string-array name="weather">
+        <item>맑음</item>
+        <item>구름</item>
+        <item>비</item>
+        <item>눈</item>
+        <item>뇌우</item>
+        <item>바람</item>
+    </string-array>
+    <string-array name="category">
+        <item>일상</item>
+        <item>연애</item>
+        <item>공부</item>
+        <item>교훈</item>
+        <item>우정</item>
+        <item>여행</item>
+    </string-array>
+    <string-array name="picture">
+        <item>R.mipmap.bluesky</item>
+        <item>R.mipmap.hawaisky</item>
+        <item>R.mipmap.purplesky</item>
+        <item>R.mipmap.rainbowsky</item>
+        <item>R.mipmap.redsky</item>
+        <item>R.mipmap.seasky</item>
+        <item>R.mipmap.skyday</item>
+        <item>R.mipmap.sunsetsky</item>
+        <item>R.mipmap.supermoonsky</item>
+        <item>R.mipmap.yellosky</item>
+    </string-array>
+
+
+    <string name="dialog_title">삭제 확인</string>
+    <string name="dialog_message">삭제하시겠습니까</string>
+    <string name="dialog_close_title">종료 확인</string>
+    <string name="dialog_close_message">종료하시겠습니까</string>
+    <string name="dialog_picture_title">수정 확인</string>
+    <string name="dialog_picture_message">수정하시겠습니까</string>
+    <string name="dialog_picture_ok">수정</string>
+    <string name="dialog_close_ok">종료</string>
+    <string name="dialog_ok">확인</string>
+    <string name="dialog_cancel">취소</string>
+    <string name="dialog_info_title">안내</string>
+    <string name="dialog_info_ok">확인</string>
+    <string name="select_info">
+        1. <b>scrollView</b> 구현\n
+        2. 이미지를 선택하면 해당 이미지로 일기의 이미지가 변경됨
+    </string>
+    <string name="search_info">
+        1. 날짜, 제목, 날짜와 제목을 기준으로 검색할 수 있음. 검색 결과가 없으면 TOAST로 안내\n
+    </string>
+</resources>
